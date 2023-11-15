@@ -1,0 +1,7 @@
+Php artisan make:controller ....
+
+Composer require laravel-lang/common
+
+Composer lang add:pl
+
+Composer 
