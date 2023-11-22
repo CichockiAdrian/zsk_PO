@@ -1,3 +1,0 @@
-
-Route::view('userform', 'forms.userform');
-Route::get('UserFormController', [\App\Http\Controllers\UserFormController::class, 'showUser']);

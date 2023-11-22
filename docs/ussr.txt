@@ -1,4 +1,0 @@
-    <h3>Dane użytkownika</h3>
-    
-    Imię i nazwisko {{$firstName}} {{$lastName}} <br>
-    Email: {{$mail}}
